@@ -1,4 +1,4 @@
-Based on the repo (realistic-ssl-evaluation-pytorch)[https://github.com/perrying/realistic-ssl-evaluation-pytorch].
+Based on the repo [realistic-ssl-evaluation-pytorch](https://github.com/perrying/realistic-ssl-evaluation-pytorch).
 
 # Requirements
 - Python 3.6+
